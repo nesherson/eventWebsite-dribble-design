@@ -97,7 +97,6 @@ main {
     font-family: 'PT sans', sans-serif;
     font-weight: bold;
     letter-spacing: 5px;
-    font-stretch: expanded;
     z-index: 2;
     color: #fff;
     text-shadow: 0 14px #9999ff;
